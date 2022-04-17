@@ -1,0 +1,7 @@
+numpy
+scikit-build
+cmake
+SimpleITK
+scipy
+nibabel
+torch
